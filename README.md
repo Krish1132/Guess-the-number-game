@@ -1,3 +1,3 @@
 # Guess-the-number-game
 
-A simple CLI game created using python. 
+A simple CLI game created using C. 
